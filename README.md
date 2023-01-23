@@ -1,3 +1,5 @@
+# Теоретичні питання до лр 1 
+
 1.	Які мови програмування підтримує CLR?
 CLR підтримує такі мови програмування: Visual Basic.NET, Visual C#.NET, Visual C++ With Managed Extensions. 
 2.	З яких компонентів складається CLR? 
