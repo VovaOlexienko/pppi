@@ -45,7 +45,7 @@ class ConsoleApp
         Console.WriteLine("Enter number of words");
         int wordsNumber = Int32.Parse(Console.ReadLine());
         StreamReader streamReader =
-            new StreamReader("C:\\Users\\olexi\\RiderProjects\\homework\\ConsoleApp1\\text.txt");
+            new StreamReader("C:\\Users\\olexi\\RiderProjects\\homework\\lr1\\text.txt");
         string[] words = streamReader.ReadLine().Split(" ");
         return string.Join(" ", words.Take(wordsNumber));
     }
